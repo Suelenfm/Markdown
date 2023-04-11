@@ -1,0 +1,81 @@
+# Título da Lista
+---
+
+
+## subtítulo
+
+***
+
+_Lista demarcada_
+---
+* op 1
+
+* op2
+ ***
+* op3
+#### anotações
+
+(__Quanto maior a quantidade de # menor o tamanho do texto__)
+
+ [Veja mais em:](https://www.cursoemvideo.com/curso/curso-de-git-e-github/aulas/aulas-de-git-e-github/modulos/guia-da-linguagem-markdown-curso-de-git-e-github/)
+
+_**Misturar**_ 
+
+~~Fim de lista~~
+
+Lista numerada
+1. lista
+    1. l1
+    2. l2
+2. listão
+    1. l
+    2. a
+    3. 3
+    4. 4
+ 
+
+- o
+   - i
+
+
+
+tarefas
+- [x] comprar caneta
+- [ ] comprar lápis
+
+
+Teste imagens
+![imagem pimba](https://fileinfo.com/img/icons/files/128/img-1638.png)
+
+obs: usar sempre imagens de 400 ou 500 px de largura.
+
+
+Tabelas:
+
+Num | Nome | Nota
+---|---|---
+1 | Hercules | 6
+
+fim de tabela
+
+citação de códigos
+
+um só crase de cada lado cita a parte de um código, uma linha `else.if`
+
+... e 3 crases no comço do código assim ----> ``` , fez isso, digita o código, no final , pula linha e digita novamente 3 crases  assim ----> ```  
+
+exemplo abaixo:
+
+``` integer.tal de tal de tal
+dssadasdasd
+asdasdasd
+adsasdasd 
+```
+
+
+para citação de um comentário , sinal de maior e parte desejada que quer comentar de outro pessoa.
+assim:
+
+> Dois * deixam em **negrito** Um * deixa em _Itálico_ Dois ~ riscam a ~palavra~
+
+e aí, marca o fulano com @ 
